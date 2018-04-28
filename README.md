@@ -11,8 +11,10 @@
 
    - git commit -m "Escribir un comentario sobre el cambio"
 
-5. Para sicronizar con el reopsitorio remoto, ejecutar el comando
+5. Para sicronizar con el repositorio remoto, ejecutar el comando
 
    - git push origin master
 
 6. Solicitara el usuario y contraseña de Github.
+
+Nota: como alternativa se puede utilizar Github Desktop
