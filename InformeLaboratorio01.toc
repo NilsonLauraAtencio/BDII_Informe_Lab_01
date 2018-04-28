@@ -9,4 +9,3 @@
 \contentsline {section}{\numberline {8}Actividad No 08 \IeC {\textendash } Enlaces}{9}
 \contentsline {section}{\numberline {9}Actividad No 09 \IeC {\textendash } SubConsultas}{10}
 \contentsline {section}{\numberline {10}Actividad No 10 \IeC {\textendash } Conjuntos}{11}
-© 2018 GitHub, Inc.
