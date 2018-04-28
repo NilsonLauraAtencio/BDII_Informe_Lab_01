@@ -9,6 +9,7 @@
 
 4. Una vez finalizadas las modificaciones para confirmar los cambios ejecutar el comando
 
+   - git add *
    - git commit -m "Escribir un comentario sobre el cambio"
 
 5. Para sicronizar con el repositorio remoto, ejecutar el comando
