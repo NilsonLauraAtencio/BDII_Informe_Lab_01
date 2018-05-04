@@ -1,4 +1,12 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.19)  3 MAY 2018 22:36
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.3)  3 MAY 2018 22:34
+>>>>>>> ff3e1b69c0725283cb65b1aa466e1a3c504f7171
+=======
 This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.3)  3 MAY 2018 22:17
+>>>>>>> d74496e890e45be817a302ccd78a3a169d85c4a7
 entering extended mode
 **./InformeLaboratorio01.tex
 (InformeLaboratorio01.tex
@@ -676,68 +684,190 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--7
 File: ./Imagenes/actividad0201.jpg Graphic file (type jpg)
 <use ./Imagenes/actividad0201.jpg>
 Package pdftex.def Info: ./Imagenes/actividad0201.jpg  used on input line 9.
+<<<<<<< HEAD
+(pdftex.def)             Requested size: 142.26378pt x 101.4097pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--19
+
+ []
+
+=======
 (pdftex.def)             Requested size: 284.52756pt x 202.82596pt.
+>>>>>>> d74496e890e45be817a302ccd78a3a169d85c4a7
 <./Imagenes/actividad0202.jpg, id=19, 263.48438pt x 288.3272pt>
 File: ./Imagenes/actividad0202.jpg Graphic file (type jpg)
 <use ./Imagenes/actividad0202.jpg>
-Package pdftex.def Info: ./Imagenes/actividad0202.jpg  used on input line 15.
+Package pdftex.def Info: ./Imagenes/actividad0202.jpg  used on input line 20.
 (pdftex.def)             Requested size: 142.26378pt x 155.68556pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--26
+
+ []
+
 <./Imagenes/actividad0203.jpg, id=20, 243.91125pt x 239.39438pt>
 File: ./Imagenes/actividad0203.jpg Graphic file (type jpg)
 <use ./Imagenes/actividad0203.jpg>
-Package pdftex.def Info: ./Imagenes/actividad0203.jpg  used on input line 21.
+Package pdftex.def Info: ./Imagenes/actividad0203.jpg  used on input line 27.
 (pdftex.def)             Requested size: 142.26378pt x 139.63054pt.
-) [2
+[2
 
 
- <./Imagenes/actividad0201.jpg> <./Imagenes/actividad0202.jpg> <./Imagenes/acti
-vidad0203.jpg>]
+ <./Imagenes/actividad0201.jpg> <./Imagenes/actividad0202.jpg>]) [3 <./Imagenes
+/actividad0203.jpg>]
 \openout2 = `Secciones/Actividad03.aux'.
 
  (Secciones/Actividad03.tex
-<./Imagenes/actividad0301.jpg, id=24, 292.09125pt x 283.0575pt>
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+<<<<<<< HEAD
+ []
+
+<<<<<<< HEAD
+(Secciones/Actividad04.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--6
+=======
+<./Imagenes/actividad0301.jpg, id=27, 292.09125pt x 283.0575pt>
 File: ./Imagenes/actividad0301.jpg Graphic file (type jpg)
 <use ./Imagenes/actividad0301.jpg>
-Package pdftex.def Info: ./Imagenes/actividad0301.jpg  used on input line 7.
-(pdftex.def)             Requested size: 142.26378pt x 137.86578pt.
-<./Imagenes/actividad0302.jpg, id=25, 383.93437pt x 255.20343pt>
-File: ./Imagenes/actividad0302.jpg Graphic file (type jpg)
-<use ./Imagenes/actividad0302.jpg>
-Package pdftex.def Info: ./Imagenes/actividad0302.jpg  used on input line 13.
-(pdftex.def)             Requested size: 142.26378pt x 94.56396pt.
-<./Imagenes/actividad0303.jpg, id=26, 305.64188pt x 374.14781pt>
-File: ./Imagenes/actividad0303.jpg Graphic file (type jpg)
-<use ./Imagenes/actividad0303.jpg>
-Package pdftex.def Info: ./Imagenes/actividad0303.jpg  used on input line 19.
-(pdftex.def)             Requested size: 142.26378pt x 174.1482pt.
-) [3
-
-
- <./Imagenes/actividad0301.jpg> <./Imagenes/actividad0302.jpg> <./Imagenes/acti
-vidad0303.jpg>]
-\openout2 = `Secciones/Actividad04.aux'.
-
-
+Package pdftex.def Info: ./Imagenes/actividad0301.jpg  used on input li
+=======
 (Secciones/Actividad04.tex [4
+>>>>>>> ff3e1b69c0725283cb65b1aa466e1a3c504f7171
+
+ []
+
+<./Imagenes/actividad_04_01.png, id=30, 121.95563pt x 134.00063pt>
+File: ./Imagenes/actividad_04_01.png Graphic file (type png)
+<use ./Imagenes/actividad_04_01.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_01.png  used on input line 8.
+(pdftex.def)             Requested size: 142.26378pt x 156.31592pt.
+<./Imagenes/actividad_04_02.png, id=32, 137.7647pt x 295.85532pt>
+File: ./Imagenes/actividad_04_02.png Graphic file (type png)
+<use ./Imagenes/actividad_04_02.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_02.png  used on input line 14.
+
+(pdftex.def)             Requested size: 142.26378pt x 305.54695pt.
+<./Imagenes/actividad_04_03.png, id=33, 184.43906pt x 292.09125pt>
+File: ./Imagenes/actividad_04_03.png Graphic file (type png)
+<use ./Imagenes/actividad_04_03.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_03.png  used on input line 20.
+
+(pdftex.def)             Requested size: 142.26378pt x 225.29869pt.
+[4
 
 
-]) [5]
+ <./Imagenes/actividad_04_01.png> <./Imagenes/actividad_04_02.png>]
+<./Imagenes/actividad_04_04.png, id=39, 185.19188pt x 61.73062pt>
+File: ./Imagenes/actividad_04_04.png Graphic file (type png)
+<use ./Imagenes/actividad_04_04.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_04.png  used on input line 26.
+
+(pdftex.def)             Requested size: 142.26378pt x 47.42155pt.
+<./Imagenes/actividad_04_05.png, id=40, 142.28156pt x 286.06876pt>
+File: ./Imagenes/actividad_04_05.png Graphic file (type png)
+<use ./Imagenes/actividad_04_05.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_05.png  used on input line 32.
+
+(pdftex.def)             Requested size: 142.26378pt x 286.06367pt.
+ [5 <./Imagenes/actividad_04_03.png> <./Imagenes/actividad_04_04.png>]
+<./Imagenes/actividad_04_06.png, id=47, 143.78719pt x 102.3825pt>
+File: ./Imagenes/actividad_04_06.png Graphic file (type png)
+<use ./Imagenes/actividad_04_06.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_06.png  used on input line 38.
+
+(pdftex.def)             Requested size: 142.26378pt x 101.30118pt.
+<./Imagenes/actividad_04_07.png, id=48, 121.20282pt x 46.67438pt>
+File: ./Imagenes/actividad_04_07.png Graphic file (type png)
+<use ./Imagenes/actividad_04_07.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_07.png  used on input line 44.
+
+(pdftex.def)             Requested size: 142.26378pt x 54.79109pt.
+<./Imagenes/actividad_04_08.png, id=49, 128.73094pt x 39.14626pt>
+File: ./Imagenes/actividad_04_08.png Graphic file (type png)
+<use ./Imagenes/actividad_04_08.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_08.png  used on input line 51.
+
+(pdftex.def)             Requested size: 142.26378pt x 43.26527pt.
+ [6 <./Imagenes/actividad_04_05.png> <./Imagenes/actividad_04_06.png> <./Imagen
+es/actividad_04_07.png>]
+<./Imagenes/actividad_04_09.png, id=56, 193.47281pt x 294.34969pt>
+File: ./Imagenes/actividad_04_09.png Graphic file (type png)
+<use ./Imagenes/actividad_04_09.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_09.png  used on input line 57.
+
+(pdftex.def)             Requested size: 142.26378pt x 216.44098pt.
+<./Imagenes/actividad_04_10.png, id=57, 126.4725pt x 133.24782pt>
+File: ./Imagenes/actividad_04_10.png Graphic file (type png)
+<use ./Imagenes/actividad_04_10.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_10.png  used on input line 64.
+
+(pdftex.def)             Requested size: 142.26378pt x 149.88715pt.
+ [7 <./Imagenes/actividad_04_08.png> <./Imagenes/actividad_04_09.png> <./Imagen
+es/actividad_04_10.png>]
+<./Imagenes/actividad_04_11.png, id=64, 243.15843pt x 287.57437pt>
+File: ./Imagenes/actividad_04_11.png Graphic file (type png)
+<use ./Imagenes/actividad_04_11.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_11.png  used on input line 73.
+
+(pdftex.def)             Requested size: 142.26378pt x 168.25008pt.
+<./Imagenes/actividad_04_12.png, id=65, 75.28125pt x 67.0003pt>
+File: ./Imagenes/actividad_04_12.png Graphic file (type png)
+<use ./Imagenes/actividad_04_12.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_12.png  used on input line 79.
+
+(pdftex.def)             Requested size: 142.26378pt x 126.64041pt.
+<./Imagenes/actividad_04_13.png, id=66, 79.79813pt x 245.41687pt>
+File: ./Imagenes/actividad_04_13.png Graphic file (type png)
+<use ./Imagenes/actividad_04_13.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_13.png  used on input line 86.
+
+(pdftex.def)             Requested size: 142.26378pt x 437.53342pt.
+ [8 <./Imagenes/actividad_04_11.png> <./Imagenes/actividad_04_12.png>]
+<./Imagenes/actividad_04_14.png, id=72, 175.40532pt x 126.4725pt>
+File: ./Imagenes/actividad_04_14.png Graphic file (type png)
+<use ./Imagenes/actividad_04_14.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_14.png  used on input line 92.
+
+(pdftex.def)             Requested size: 142.26378pt x 102.58302pt.
+<./Imagenes/actividad_04_15.png, id=73, 215.30438pt x 94.85437pt>
+File: ./Imagenes/actividad_04_15.png Graphic file (type png)
+<use ./Imagenes/actividad_04_15.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_15.png  used on input line 99.
+
+(pdftex.def)             Requested size: 142.26378pt x 62.67644pt.
+ [9 <./Imagenes/actividad_04_13.png> <./Imagenes/actividad_04_14.png>]) [10 <./
+Imagenes/actividad_04_15.png>]
 \openout2 = `Secciones/Actividad05.aux'.
 
- (Secciones/Actividad05.tex) [6
+ (Secciones/Actividad05.tex)
+[11
 
 
 ]
 \openout2 = `Secciones/Actividad06.aux'.
 
-
-(Secciones/Actividad06.tex) [7
+ (Secciones/Actividad06.tex) [12
 
 
 ]
 \openout2 = `Secciones/Actividad07.aux'.
 
- (Secciones/Actividad07.tex) [8
+ (Secciones/Actividad07.tex) [13
 
 
 ]
@@ -745,6 +875,9 @@ vidad0303.jpg>]
 
 
 (Secciones/Actividad08.tex
+<<<<<<< HEAD
+<./Imagenes/actividad_08_01.png, id=93, 507.39563pt x 361.35pt>
+=======
 Underfull \hbox (badness 10000) in paragraph at lines 4--10
 
  []
@@ -755,40 +888,65 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--10
  []
 
 <./Imagenes/actividad_08_01.png, id=46, 507.39563pt x 361.35pt>
+>>>>>>> d74496e890e45be817a302ccd78a3a169d85c4a7
 File: ./Imagenes/actividad_08_01.png Graphic file (type png)
 <use ./Imagenes/actividad_08_01.png>
 Package pdftex.def Info: ./Imagenes/actividad_08_01.png  used on input line 12.
 
 (pdftex.def)             Requested size: 142.26378pt x 101.31516pt.
-<./Imagenes/actividad_08_02.png, id=48, 223.58531pt x 568.37344pt>
+<./Imagenes/actividad_08_02.png, id=94, 223.58531pt x 568.37344pt>
 File: ./Imagenes/actividad_08_02.png Graphic file (type png)
 <use ./Imagenes/actividad_08_02.png>
 Package pdftex.def Info: ./Imagenes/actividad_08_02.png  used on input line 19.
 
 (pdftex.def)             Requested size: 142.26378pt x 361.6503pt.
+<<<<<<< HEAD
+<./Imagenes/actividad_08_03.png, id=95, 359.09157pt x 48.18pt>
+=======
 [9
 
 
  <./Imagenes/actividad_08_01.png>]
 <./Imagenes/actividad_08_03.png, id=53, 359.09157pt x 48.18pt>
+>>>>>>> d74496e890e45be817a302ccd78a3a169d85c4a7
 File: ./Imagenes/actividad_08_03.png Graphic file (type png)
 <use ./Imagenes/actividad_08_03.png>
 Package pdftex.def Info: ./Imagenes/actividad_08_03.png  used on input line 25.
 
 (pdftex.def)             Requested size: 142.26378pt x 19.08784pt.
+<<<<<<< HEAD
+ [14
+
+
+ <./Imagenes/actividad_08_01.png> <./Imagenes/actividad_08_02.png>]
+<./Imagenes/actividad_08_04.png, id=101, 239.39438pt x 529.22719pt>
+=======
 <./Imagenes/actividad_08_04.png, id=54, 239.39438pt x 529.22719pt>
+>>>>>>> d74496e890e45be817a302ccd78a3a169d85c4a7
 File: ./Imagenes/actividad_08_04.png Graphic file (type png)
 <use ./Imagenes/actividad_08_04.png>
 Package pdftex.def Info: ./Imagenes/actividad_08_04.png  used on input line 32.
 
 (pdftex.def)             Requested size: 142.26378pt x 314.50243pt.
+<<<<<<< HEAD
+<./Imagenes/actividad_08_05.png, id=102, 238.64156pt x 572.1375pt>
+=======
  [10 <./Imagenes/actividad_08_02.png> <./Imagenes/actividad_08_03.png>]
 <./Imagenes/actividad_08_05.png, id=60, 238.64156pt x 572.1375pt>
+>>>>>>> d74496e890e45be817a302ccd78a3a169d85c4a7
 File: ./Imagenes/actividad_08_05.png Graphic file (type png)
 <use ./Imagenes/actividad_08_05.png>
 Package pdftex.def Info: ./Imagenes/actividad_08_05.png  used on input line 38.
 
 (pdftex.def)             Requested size: 142.26378pt x 341.06769pt.
+<<<<<<< HEAD
+ [15 <./Imagenes/actividad_08_03.png> <./Imagenes/actividad_08_04.png>]) [16 <.
+/Imagenes/actividad_08_05.png>]
+\openout2 = `Secciones/Actividad09.aux'.
+
+ (Secciones/Actividad09.tex
+<./Imagenes/actividad0901.jpg, id=112, 522.45187pt x 341.02406pt>
+=======
  [11 <./Imagenes/actividad_08_04.png>]
 <./Imagenes/8ejer6.jpg, id=66, 630.10406pt x 448.67625pt>
 File: ./Imagenes/8ejer6.jpg Graphic file (type jpg)
@@ -800,52 +958,90 @@ Package pdftex.def Info: ./Imagenes/8ejer6.jpg  used on input line 43.
 
  (Secciones/Actividad09.tex
 <./Imagenes/actividad0901.jpg, id=71, 522.45187pt x 341.02406pt>
+>>>>>>> d74496e890e45be817a302ccd78a3a169d85c4a7
 File: ./Imagenes/actividad0901.jpg Graphic file (type jpg)
 <use ./Imagenes/actividad0901.jpg>
 Package pdftex.def Info: ./Imagenes/actividad0901.jpg  used on input line 7.
 (pdftex.def)             Requested size: 142.26378pt x 92.85826pt.
+<<<<<<< HEAD
+<./Imagenes/actividad0902.jpg, id=113, 327.47343pt x 328.97906pt>
+=======
 <./Imagenes/actividad0902.jpg, id=72, 327.47343pt x 328.97906pt>
+>>>>>>> d74496e890e45be817a302ccd78a3a169d85c4a7
 File: ./Imagenes/actividad0902.jpg Graphic file (type jpg)
 <use ./Imagenes/actividad0902.jpg>
 Package pdftex.def Info: ./Imagenes/actividad0902.jpg  used on input line 13.
 (pdftex.def)             Requested size: 142.26378pt x 142.91899pt.
+<<<<<<< HEAD
+<./Imagenes/actividad0903.jpg, id=114, 538.26094pt x 363.60844pt>
+=======
 <./Imagenes/actividad0903.jpg, id=73, 538.26094pt x 363.60844pt>
+>>>>>>> d74496e890e45be817a302ccd78a3a169d85c4a7
 File: ./Imagenes/actividad0903.jpg Graphic file (type jpg)
 <use ./Imagenes/actividad0903.jpg>
 Package pdftex.def Info: ./Imagenes/actividad0903.jpg  used on input line 19.
 (pdftex.def)             Requested size: 142.26378pt x 96.10056pt.
+<<<<<<< HEAD
+<./Imagenes/actividad0904.jpg, id=115, 258.21469pt x 290.58563pt>
+=======
 <./Imagenes/actividad0904.jpg, id=74, 258.21469pt x 290.58563pt>
+>>>>>>> d74496e890e45be817a302ccd78a3a169d85c4a7
 File: ./Imagenes/actividad0904.jpg Graphic file (type jpg)
 <use ./Imagenes/actividad0904.jpg>
 Package pdftex.def Info: ./Imagenes/actividad0904.jpg  used on input line 26.
 (pdftex.def)             Requested size: 142.26378pt x 160.10193pt.
 
+<<<<<<< HEAD
+[17
+=======
 [13
+>>>>>>> d74496e890e45be817a302ccd78a3a169d85c4a7
 
 
  <./Imagenes/actividad0901.jpg> <./Imagenes/actividad0902.jpg> <./Imagenes/acti
 vidad0903.jpg>]
+<<<<<<< HEAD
+<./Imagenes/actividad0905.jpg, id=120, 261.22594pt x 316.93407pt>
+=======
 <./Imagenes/actividad0905.jpg, id=78, 261.22594pt x 316.93407pt>
+>>>>>>> d74496e890e45be817a302ccd78a3a169d85c4a7
 File: ./Imagenes/actividad0905.jpg Graphic file (type jpg)
 <use ./Imagenes/actividad0905.jpg>
 Package pdftex.def Info: ./Imagenes/actividad0905.jpg  used on input line 32.
 (pdftex.def)             Requested size: 142.26378pt x 172.60233pt.
+<<<<<<< HEAD
+<./Imagenes/actividad0906.jpg, id=121, 437.38406pt x 434.37282pt>
+=======
 <./Imagenes/actividad0906.jpg, id=79, 437.38406pt x 434.37282pt>
+>>>>>>> d74496e890e45be817a302ccd78a3a169d85c4a7
 File: ./Imagenes/actividad0906.jpg Graphic file (type jpg)
 <use ./Imagenes/actividad0906.jpg>
 Package pdftex.def Info: ./Imagenes/actividad0906.jpg  used on input line 38.
 (pdftex.def)             Requested size: 142.26378pt x 141.28217pt.
+<<<<<<< HEAD
+<./Imagenes/actividad0907.jpg, id=122, 356.83313pt x 414.04688pt>
+=======
 <./Imagenes/actividad0907.jpg, id=80, 356.83313pt x 414.04688pt>
+>>>>>>> d74496e890e45be817a302ccd78a3a169d85c4a7
 File: ./Imagenes/actividad0907.jpg Graphic file (type jpg)
 <use ./Imagenes/actividad0907.jpg>
 Package pdftex.def Info: ./Imagenes/actividad0907.jpg  used on input line 44.
 (pdftex.def)             Requested size: 142.26378pt x 165.07248pt.
+<<<<<<< HEAD
+ [18 <./Imagenes/actividad0904.jpg> <./Imagenes/actividad0905.jpg> <./Imagenes/
+actividad0906.jpg>]) [19 <./Imagenes/actividad0907.jpg>]
+\openout2 = `Secciones/Actividad10.aux'.
+
+
+(Secciones/Actividad10.tex) [20
+=======
  [14 <./Imagenes/actividad0904.jpg> <./Imagenes/actividad0905.jpg> <./Imagenes/
 actividad0906.jpg>]) [15 <./Imagenes/actividad0907.jpg>]
 \openout2 = `Secciones/Actividad10.aux'.
 
 
 (Secciones/Actividad10.tex) [16
+>>>>>>> d74496e890e45be817a302ccd78a3a169d85c4a7
 
 
 ] (InformeLaboratorio01.aux
@@ -858,6 +1054,23 @@ LaTeX Info: Redefining \% on input line 6.
 (Secciones/Actividad07.aux) (Secciones/Actividad08.aux)
 (Secciones/Actividad09.aux) (Secciones/Actividad10.aux)) ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
+ 3842 strings out of 493305
+ 53291 string characters out of 3147536
+ 128520 words of memory out of 3000000
+ 7217 multiletter control sequences out of 15000+200000
+ 8261 words of font info for 30 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 34i,7n,30p,616b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/DATA/fonts/type1/
+public/amsfonts/cm/cmbx12.pfb><D:/DATA/fonts/type1/public/amsfonts/cm/cmr12.pfb
+><D:/DATA/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on InformeLaboratorio01.pdf (22 pages, 1034069 bytes).
+PDF statistics:
+ 143 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 186 words of extra memory for PDF output out of 10000 (max. 10000000)
+=======
  3737 strings out of 493305
  54812 string characters out of 3128933
  127782 words of memory out of 3000000
@@ -875,4 +1088,6 @@ PDF statistics:
  101 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  116 words of extra memory for PDF output out of 10000 (max. 10000000)
+>>>>>>> d74496e890e45be817a302ccd78a3a169d85c4a7
 
+>>>>>>> d74496e890e45be817a302ccd78a3a169d85c4a7
