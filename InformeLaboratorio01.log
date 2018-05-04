@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.19)  3 MAY 2018 22:36
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.3)  3 MAY 2018 22:34
+>>>>>>> ff3e1b69c0725283cb65b1aa466e1a3c504f7171
 =======
 This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.3)  3 MAY 2018 22:17
 >>>>>>> d74496e890e45be817a302ccd78a3a169d85c4a7
@@ -680,50 +684,70 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--7
 File: ./Imagenes/actividad0201.jpg Graphic file (type jpg)
 <use ./Imagenes/actividad0201.jpg>
 Package pdftex.def Info: ./Imagenes/actividad0201.jpg  used on input line 9.
+<<<<<<< HEAD
+(pdftex.def)             Requested size: 142.26378pt x 101.4097pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--19
+
+ []
+
+=======
 (pdftex.def)             Requested size: 284.52756pt x 202.82596pt.
+>>>>>>> d74496e890e45be817a302ccd78a3a169d85c4a7
 <./Imagenes/actividad0202.jpg, id=19, 263.48438pt x 288.3272pt>
 File: ./Imagenes/actividad0202.jpg Graphic file (type jpg)
 <use ./Imagenes/actividad0202.jpg>
-Package pdftex.def Info: ./Imagenes/actividad0202.jpg  used on input line 15.
+Package pdftex.def Info: ./Imagenes/actividad0202.jpg  used on input line 20.
 (pdftex.def)             Requested size: 142.26378pt x 155.68556pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--26
+
+ []
+
 <./Imagenes/actividad0203.jpg, id=20, 243.91125pt x 239.39438pt>
 File: ./Imagenes/actividad0203.jpg Graphic file (type jpg)
 <use ./Imagenes/actividad0203.jpg>
-Package pdftex.def Info: ./Imagenes/actividad0203.jpg  used on input line 21.
+Package pdftex.def Info: ./Imagenes/actividad0203.jpg  used on input line 27.
 (pdftex.def)             Requested size: 142.26378pt x 139.63054pt.
-) [2
+[2
 
 
- <./Imagenes/actividad0201.jpg> <./Imagenes/actividad0202.jpg> <./Imagenes/acti
-vidad0203.jpg>]
+ <./Imagenes/actividad0201.jpg> <./Imagenes/actividad0202.jpg>]) [3 <./Imagenes
+/actividad0203.jpg>]
 \openout2 = `Secciones/Actividad03.aux'.
 
  (Secciones/Actividad03.tex
-<./Imagenes/actividad0301.jpg, id=24, 292.09125pt x 283.0575pt>
-File: ./Imagenes/actividad0301.jpg Graphic file (type jpg)
-<use ./Imagenes/actividad0301.jpg>
-Package pdftex.def Info: ./Imagenes/actividad0301.jpg  used on input line 7.
-(pdftex.def)             Requested size: 142.26378pt x 137.86578pt.
-<./Imagenes/actividad0302.jpg, id=25, 383.93437pt x 255.20343pt>
-File: ./Imagenes/actividad0302.jpg Graphic file (type jpg)
-<use ./Imagenes/actividad0302.jpg>
-Package pdftex.def Info: ./Imagenes/actividad0302.jpg  used on input line 13.
-(pdftex.def)             Requested size: 142.26378pt x 94.56396pt.
-<./Imagenes/actividad0303.jpg, id=26, 305.64188pt x 374.14781pt>
-File: ./Imagenes/actividad0303.jpg Graphic file (type jpg)
-<use ./Imagenes/actividad0303.jpg>
-Package pdftex.def Info: ./Imagenes/actividad0303.jpg  used on input line 19.
-(pdftex.def)             Requested size: 142.26378pt x 174.1482pt.
-) [3
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
 
 
- <./Imagenes/actividad0301.jpg> <./Imagenes/actividad0302.jpg> <./Imagenes/acti
-vidad0303.jpg>]
-\openout2 = `Secciones/Actividad04.aux'.
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
 
+<<<<<<< HEAD
+ []
 
+<<<<<<< HEAD
 (Secciones/Actividad04.tex
 Underfull \hbox (badness 10000) in paragraph at lines 4--6
+=======
+<./Imagenes/actividad0301.jpg, id=27, 292.09125pt x 283.0575pt>
+File: ./Imagenes/actividad0301.jpg Graphic file (type jpg)
+<use ./Imagenes/actividad0301.jpg>
+Package pdftex.def Info: ./Imagenes/actividad0301.jpg  used on input li
+=======
+(Secciones/Actividad04.tex [4
+>>>>>>> ff3e1b69c0725283cb65b1aa466e1a3c504f7171
 
  []
 
@@ -1066,3 +1090,4 @@ PDF statistics:
  116 words of extra memory for PDF output out of 10000 (max. 10000000)
 >>>>>>> d74496e890e45be817a302ccd78a3a169d85c4a7
 
+>>>>>>> d74496e890e45be817a302ccd78a3a169d85c4a7
