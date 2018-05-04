@@ -2,6 +2,12 @@
 		
 \begin{enumerate}[1.]
 	\item El departamento de Recursos Humanos requiere un reporte que muestre las direcciones de todos los departamentos. Utilizar las tablas LOCATIONS y COUNTRIES. Mostrar el ID de la Ubicación (location\_id), dirección (street\_address), ciudad (city), estado o provincia (state\_province) y país (country\_name). % Utilizar NATURAL JOIN para producir el resultado.
+\\
+\\select l.location\_id , l.street\_address , l.city , l.state\_province , c.country\_name \\
+from locations as l \\
+join countries as c \\
+on l.country\_id = c.country\_id \\
+
 	\begin{center}
 	\includegraphics[width=5cm]{./Imagenes/actividad_08_01} 
 	\end{center}
@@ -33,6 +39,10 @@ debe mostrarse el Apellido y No de Identificaci\'on de su Administrador.
 	\end{center}
 
 	\item Crear un reporte que muestre los No de Departamento y Apellidos de todos los empleados, asimismo adicionar una columna con los Apellidos de todos empleados que trabajan en el mismo departamento. Etiquetar esta columna como Colega.
+\begin{center}
+	\includegraphics[width=5cm]{./Imagenes/8-EJERCICIO 6} 
+	\end{center}
+
 	\item El departamento de Recursos Humanos requiere un reporte de todo el personal que fue contratado después del empleado apellidado ‘Davies’. Crear un reporte que muestre el apellidos y fecha de contrataci\'on de todo los empleados contratado después de ‘Davies’.
 	\item El departamento de Recursos Humanos requiere de un reporte que el apellido del empleado, fecha de contrataci\'on del empleado, apellido del administrador, fecha de contratación del administrador. Para todos aquellos empleados que fueron contratados antes que sus Administradores.
 \end{enumerate}
