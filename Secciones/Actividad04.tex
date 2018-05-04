@@ -66,7 +66,7 @@ no tengan un administrador (manager).
 	\end{center}
 
 
-	\item El personal del departamento de Recursos Humanos desea tener mayor flexibilidad con los reportes hechos. Por ejemplo se requiere un reporte de los apellidos (last\_name) y salarios (salary) de todos los empleados que tengan un salario mayor a un monto que el personal de Recursos Humanos ingresará. Probar con el valor \$ 12,000
+	\item El personal del departamento de Recursos Humanos desea tener mayor flexibilidad con los reportes hechos. Por ejemplo se requiere un reporte de los apellidos (last\_name) y salarios (salary) de todos los empleados que tengan un salario mayor a un monto que el personal de Recursos Humanos ingresará. Probar con el valor \$ 12,000.
 	\\ \\declare @salario as decimal(9,2); set @salario = 12000; select last\_name,salary from employees where salary > @salario;
 
 	\begin{center}
@@ -77,7 +77,13 @@ no tengan un administrador (manager).
 	\\Administrador (manager\_id) = 103, ordenado por Apellido (last\_name)
 	\\Administrador (manager\_id) = 201, ordenado por Salario (salary)
 	\\Administrador (manager\_id) = 124, ordenado por No de Empleado (employee\_id)
-	\\ \\declare @gerente as int; set @gerente = 103; select employee_id,last_name,salary,department_id from employees where manager_id = @gerente order by last_name; set @gerente = 201; select employee_id,last_name,salary,department_id from employees where manager_id = @gerente order by salary; set @gerente = 124; select employee_id,last_name,salary,department_id from employees where manager_id = @gerente order by employee_id;
+	\\ \\declare @gerente as int; set @gerente = 103;
+	\\select employee\_id,last\_name,salary,department\_id 
+	\\from employees where manager\_id = @gerente order by last\_name; 
+	\\set @gerente = 201; select employee\_id,last\_name,salary,department\_id 
+	\\from employees where manager\_id = @gerente order by salary; 
+	\\set @gerente = 124; select employee\_id,last\_name,salary,department\_id 
+	\\from employees where manager\_id = @gerente order by employee\_id;
 
 	\begin{center}
 	\includegraphics[width=5cm]{./Imagenes/actividad_04_11} 
