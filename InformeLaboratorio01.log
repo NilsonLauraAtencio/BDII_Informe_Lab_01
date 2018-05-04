@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.3)  3 MAY 2018 22:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.3)  3 MAY 2018 22:17
 entering extended mode
 **./InformeLaboratorio01.tex
 (InformeLaboratorio01.tex
@@ -705,4 +705,174 @@ File: ./Imagenes/actividad0302.jpg Graphic file (type jpg)
 <use ./Imagenes/actividad0302.jpg>
 Package pdftex.def Info: ./Imagenes/actividad0302.jpg  used on input line 13.
 (pdftex.def)             Requested size: 142.26378pt x 94.56396pt.
-<./Imagenes/actividad0303.jpg
+<./Imagenes/actividad0303.jpg, id=26, 305.64188pt x 374.14781pt>
+File: ./Imagenes/actividad0303.jpg Graphic file (type jpg)
+<use ./Imagenes/actividad0303.jpg>
+Package pdftex.def Info: ./Imagenes/actividad0303.jpg  used on input line 19.
+(pdftex.def)             Requested size: 142.26378pt x 174.1482pt.
+) [3
+
+
+ <./Imagenes/actividad0301.jpg> <./Imagenes/actividad0302.jpg> <./Imagenes/acti
+vidad0303.jpg>]
+\openout2 = `Secciones/Actividad04.aux'.
+
+
+(Secciones/Actividad04.tex [4
+
+
+]) [5]
+\openout2 = `Secciones/Actividad05.aux'.
+
+ (Secciones/Actividad05.tex) [6
+
+
+]
+\openout2 = `Secciones/Actividad06.aux'.
+
+
+(Secciones/Actividad06.tex) [7
+
+
+]
+\openout2 = `Secciones/Actividad07.aux'.
+
+ (Secciones/Actividad07.tex) [8
+
+
+]
+\openout2 = `Secciones/Actividad08.aux'.
+
+
+(Secciones/Actividad08.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--10
+
+ []
+
+<./Imagenes/actividad_08_01.png, id=46, 507.39563pt x 361.35pt>
+File: ./Imagenes/actividad_08_01.png Graphic file (type png)
+<use ./Imagenes/actividad_08_01.png>
+Package pdftex.def Info: ./Imagenes/actividad_08_01.png  used on input line 12.
+
+(pdftex.def)             Requested size: 142.26378pt x 101.31516pt.
+<./Imagenes/actividad_08_02.png, id=48, 223.58531pt x 568.37344pt>
+File: ./Imagenes/actividad_08_02.png Graphic file (type png)
+<use ./Imagenes/actividad_08_02.png>
+Package pdftex.def Info: ./Imagenes/actividad_08_02.png  used on input line 19.
+
+(pdftex.def)             Requested size: 142.26378pt x 361.6503pt.
+[9
+
+
+ <./Imagenes/actividad_08_01.png>]
+<./Imagenes/actividad_08_03.png, id=53, 359.09157pt x 48.18pt>
+File: ./Imagenes/actividad_08_03.png Graphic file (type png)
+<use ./Imagenes/actividad_08_03.png>
+Package pdftex.def Info: ./Imagenes/actividad_08_03.png  used on input line 25.
+
+(pdftex.def)             Requested size: 142.26378pt x 19.08784pt.
+<./Imagenes/actividad_08_04.png, id=54, 239.39438pt x 529.22719pt>
+File: ./Imagenes/actividad_08_04.png Graphic file (type png)
+<use ./Imagenes/actividad_08_04.png>
+Package pdftex.def Info: ./Imagenes/actividad_08_04.png  used on input line 32.
+
+(pdftex.def)             Requested size: 142.26378pt x 314.50243pt.
+ [10 <./Imagenes/actividad_08_02.png> <./Imagenes/actividad_08_03.png>]
+<./Imagenes/actividad_08_05.png, id=60, 238.64156pt x 572.1375pt>
+File: ./Imagenes/actividad_08_05.png Graphic file (type png)
+<use ./Imagenes/actividad_08_05.png>
+Package pdftex.def Info: ./Imagenes/actividad_08_05.png  used on input line 38.
+
+(pdftex.def)             Requested size: 142.26378pt x 341.06769pt.
+ [11 <./Imagenes/actividad_08_04.png>]
+<./Imagenes/8ejer6.jpg, id=66, 630.10406pt x 448.67625pt>
+File: ./Imagenes/8ejer6.jpg Graphic file (type jpg)
+<use ./Imagenes/8ejer6.jpg>
+Package pdftex.def Info: ./Imagenes/8ejer6.jpg  used on input line 43.
+(pdftex.def)             Requested size: 142.26378pt x 101.29695pt.
+) [12 <./Imagenes/actividad_08_05.png> <./Imagenes/8ejer6.jpg>]
+\openout2 = `Secciones/Actividad09.aux'.
+
+ (Secciones/Actividad09.tex
+<./Imagenes/actividad0901.jpg, id=71, 522.45187pt x 341.02406pt>
+File: ./Imagenes/actividad0901.jpg Graphic file (type jpg)
+<use ./Imagenes/actividad0901.jpg>
+Package pdftex.def Info: ./Imagenes/actividad0901.jpg  used on input line 7.
+(pdftex.def)             Requested size: 142.26378pt x 92.85826pt.
+<./Imagenes/actividad0902.jpg, id=72, 327.47343pt x 328.97906pt>
+File: ./Imagenes/actividad0902.jpg Graphic file (type jpg)
+<use ./Imagenes/actividad0902.jpg>
+Package pdftex.def Info: ./Imagenes/actividad0902.jpg  used on input line 13.
+(pdftex.def)             Requested size: 142.26378pt x 142.91899pt.
+<./Imagenes/actividad0903.jpg, id=73, 538.26094pt x 363.60844pt>
+File: ./Imagenes/actividad0903.jpg Graphic file (type jpg)
+<use ./Imagenes/actividad0903.jpg>
+Package pdftex.def Info: ./Imagenes/actividad0903.jpg  used on input line 19.
+(pdftex.def)             Requested size: 142.26378pt x 96.10056pt.
+<./Imagenes/actividad0904.jpg, id=74, 258.21469pt x 290.58563pt>
+File: ./Imagenes/actividad0904.jpg Graphic file (type jpg)
+<use ./Imagenes/actividad0904.jpg>
+Package pdftex.def Info: ./Imagenes/actividad0904.jpg  used on input line 26.
+(pdftex.def)             Requested size: 142.26378pt x 160.10193pt.
+
+[13
+
+
+ <./Imagenes/actividad0901.jpg> <./Imagenes/actividad0902.jpg> <./Imagenes/acti
+vidad0903.jpg>]
+<./Imagenes/actividad0905.jpg, id=78, 261.22594pt x 316.93407pt>
+File: ./Imagenes/actividad0905.jpg Graphic file (type jpg)
+<use ./Imagenes/actividad0905.jpg>
+Package pdftex.def Info: ./Imagenes/actividad0905.jpg  used on input line 32.
+(pdftex.def)             Requested size: 142.26378pt x 172.60233pt.
+<./Imagenes/actividad0906.jpg, id=79, 437.38406pt x 434.37282pt>
+File: ./Imagenes/actividad0906.jpg Graphic file (type jpg)
+<use ./Imagenes/actividad0906.jpg>
+Package pdftex.def Info: ./Imagenes/actividad0906.jpg  used on input line 38.
+(pdftex.def)             Requested size: 142.26378pt x 141.28217pt.
+<./Imagenes/actividad0907.jpg, id=80, 356.83313pt x 414.04688pt>
+File: ./Imagenes/actividad0907.jpg Graphic file (type jpg)
+<use ./Imagenes/actividad0907.jpg>
+Package pdftex.def Info: ./Imagenes/actividad0907.jpg  used on input line 44.
+(pdftex.def)             Requested size: 142.26378pt x 165.07248pt.
+ [14 <./Imagenes/actividad0904.jpg> <./Imagenes/actividad0905.jpg> <./Imagenes/
+actividad0906.jpg>]) [15 <./Imagenes/actividad0907.jpg>]
+\openout2 = `Secciones/Actividad10.aux'.
+
+
+(Secciones/Actividad10.tex) [16
+
+
+] (InformeLaboratorio01.aux
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+
+(Secciones/Actividad01.aux) (Secciones/Actividad02.aux)
+(Secciones/Actividad03.aux) (Secciones/Actividad04.aux)
+(Secciones/Actividad05.aux) (Secciones/Actividad06.aux)
+(Secciones/Actividad07.aux) (Secciones/Actividad08.aux)
+(Secciones/Actividad09.aux) (Secciones/Actividad10.aux)) ) 
+Here is how much of TeX's memory you used:
+ 3737 strings out of 493305
+ 54812 string characters out of 3128933
+ 127782 words of memory out of 3000000
+ 7146 multiletter control sequences out of 15000+200000
+ 7954 words of font info for 29 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 34i,7n,30p,616b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/AEPIS01/App
+Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Us
+ers/AEPIS01/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+r12.pfb><C:/Users/AEPIS01/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmsy10.pfb>
+Output written on InformeLaboratorio01.pdf (18 pages, 1073996 bytes).
+PDF statistics:
+ 101 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 116 words of extra memory for PDF output out of 10000 (max. 10000000)
+
