@@ -23,14 +23,14 @@
 	\item Crear un reporte que muestre los Apellidos (con la primera letra en May\'usculas y las demás en Min\'usculas) y la longitud de los apellidos (colocar alias Longitud), para todos aquellos empleados quienes sus apellidos empiecen con las letras ‘J’, ‘A’ y ‘M’. Ordenar los resultados por la columna Apellido.
 	 \\select UPPER(last\_name) "Apellido", (LOWER(first\_name)) "Longitud" 
 	\\from employees 
-	\\where last\_name like 'A%'
-     	\\ or last\_name like 'J%'
-      	\\or last\_name like 'M%' order by last\_name asc;
+	\\where last\_name like 'A\%'
+     	\\ or last\_name like 'J\%'
+      	\\or last\_name like 'M\%' order by last\_name asc;
       	\begin{center}
 	\includegraphics[width=5cm]{./Imagenes/actividad_05_04}
 	\end{center}
 	\item Modificar la consulta anterior a fin de que consulte primero al usuario con que letra empieza el apellido a buscar. Considerar que no importa si la letra esta may\'uscula o min\'uscula de igual manera debe mostrar los resultados.
-	\\select initcap(FIRST\_NAME) as "name", length(first\_name) as "Length" from employees where upper(substr(first\_name,1,1))=upper('&Inicial') order by first\_name;
+	\\select initcap(FIRST\_NAME) as "name", length(first\_name) as "Length" from employees where upper(substr(first\_name,1,1))=upper('\&Inicial') order by first\_name;
 	\item El departamento de Recursos Humanos la duración o tiempo de permanencia de cada empleado, mostrar el Apellido y el calculo del número de meses entre la fecha de hoy y la fecha en que fue contratado el empleado, Etiquetar la columna como Meses Trabajados, ordenar los resultados por el resultado de los n\'umeros de meses, Redondear el número de meses al entero más cercano.
 	\\SELECT LAST\_NAME, ROUND(MONTHS\_BETWEEN(SYSDATE,HIRE\_DATE),0) "MONTHS\_WORKED"
   \\from employees order by MONTHS\_BETWEEN( HIRE\_DATE, SYSDATE);
@@ -47,7 +47,7 @@
     \\RETURN REPLICATE(@pad, @length - LEN(@string)) + @string;
 \\END
 \\GO
-\\SELECT dbo.LPAD(salary, 15, '$') VALUE
+\\SELECT dbo.LPAD(salary, 15, '\$') VALUE
 \\FROM employees;
 \begin{center}
 	\includegraphics[width=5cm]{./Imagenes/actividad_05_07}
