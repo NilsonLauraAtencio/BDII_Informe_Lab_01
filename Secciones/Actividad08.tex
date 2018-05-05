@@ -15,7 +15,7 @@
 
 	\item El departamento de Recursos Humanos necesita un reporte de todos empleados, que muestres los apellidos de empleado (last\_name), el No de departamento (department\_id) y el nombre del departamento (depertment\_date) al cual pertenece. 
 	\\
-	\\select e.last\_name , d.departmen\t_id , d.department\_name from employees as e
+	\\select e.last\_name , d.department\_id , d.department\_name from employees as e
 	\\left join departments as d 
 	\\on e.department\_id = d.department\_id order by d.department\_name;
 

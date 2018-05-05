@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.19)  5 MAY 2018 11:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.19)  5 MAY 2018 12:05
 entering extended mode
 **./InformeLaboratorio01.tex
 (InformeLaboratorio01.tex
@@ -520,13 +520,7 @@ Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
 ("D:\DATA\MiKTeX 2.9\tex\latex\tools\enumerate.sty"
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks26
-) (InformeLaboratorio01.aux
-LaTeX Info: Redefining \. on input line 6.
-LaTeX Info: Redefining \% on input line 6.
-
-(Secciones/Actividad01.aux) (Secciones/Actividad02.aux)
-(Secciones/Actividad03.aux) (Secciones/Actividad04.aux)
-(Secciones/Actividad07.aux) (Secciones/Actividad10.aux))
+) (InformeLaboratorio01.aux)
 \openout1 = `InformeLaboratorio01.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
@@ -543,7 +537,6 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
 LaTeX Font Info:    ... okay on input line 18.
 LaTeX Info: Redefining \. on input line 18.
 LaTeX Info: Redefining \% on input line 18.
-
 ("D:\DATA\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -608,10 +601,7 @@ Package pdftex.def Info: ./Imagenes/logo.jpg  used on input line 38.
 [1
 
 {C:/Users/AEPIS01/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Imagene
-s/logo.jpg>] (InformeLaboratorio01.toc
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-)
+s/logo.jpg>] (InformeLaboratorio01.toc)
 \tf@toc=\write3
 \openout3 = `InformeLaboratorio01.toc'.
 
@@ -921,12 +911,290 @@ Package pdftex.def Info: ./Imagenes/actividad_04_15.png  used on input line 121
 (pdftex.def)             Requested size: 142.26378pt x 62.67644pt.
 )
 [13 <./Imagenes/actividad_04_15.png>]
+\openout2 = `Secciones/Actividad06.aux'.
+
+ (Secciones/Actividad06.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--13
+
+ []
+
+<./Imagenes/img01.jpg, id=93, 325.215pt x 186.6975pt>
+File: ./Imagenes/img01.jpg Graphic file (type jpg)
+<use ./Imagenes/img01.jpg>
+Package pdftex.def Info: ./Imagenes/img01.jpg  used on input line 14.
+(pdftex.def)             Requested size: 284.52756pt x 163.35135pt.
+<./Imagenes/img02.jpg, id=94, 143.03438pt x 188.95593pt>
+File: ./Imagenes/img02.jpg Graphic file (type jpg)
+<use ./Imagenes/img02.jpg>
+Package pdftex.def Info: ./Imagenes/img02.jpg  used on input line 27.
+(pdftex.def)             Requested size: 284.52756pt x 375.88112pt.
+[14
+
+
+ <./Imagenes/img01.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 30--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--37
+
+ []
+
+<./Imagenes/img03.jpg, id=98, 215.30438pt x 189.70876pt>
+File: ./Imagenes/img03.jpg Graphic file (type jpg)
+<use ./Imagenes/img03.jpg>
+Package pdftex.def Info: ./Imagenes/img03.jpg  used on input line 38.
+(pdftex.def)             Requested size: 284.52756pt x 250.72604pt.
+[15 <./Imagenes/img02.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 41--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--50
+
+ []
+
+<./Imagenes/img04.jpg, id=102, 149.05687pt x 188.95593pt>
+File: ./Imagenes/img04.jpg Graphic file (type jpg)
+<use ./Imagenes/img04.jpg>
+Package pdftex.def Info: ./Imagenes/img04.jpg  used on input line 51.
+(pdftex.def)             Requested size: 284.52756pt x 360.74992pt.
+[16 <./Imagenes/img03.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 67--78
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--78
+
+ []
+
+<./Imagenes/img06.jpg, id=106, 220.57407pt x 187.45032pt>
+File: ./Imagenes/img06.jpg Graphic file (type jpg)
+<use ./Imagenes/img06.jpg>
+Package pdftex.def Info: ./Imagenes/img06.jpg  used on input line 80.
+(pdftex.def)             Requested size: 284.52756pt x 241.81189pt.
+[17 <./Imagenes/img04.jpg>]) [18 <./Imagenes/img06.jpg>]
 \openout2 = `Secciones/Actividad07.aux'.
 
- (Secciones/Actividad07.tex) [14
+
+(Secciones/Actividad07.tex) [19
 
 
 ]
+\openout2 = `Secciones/Actividad08.aux'.
+
+ (Secciones/Actividad08.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--10
+
+ []
+
+<./Imagenes/8ejer1.jpg, id=117, 638.385pt x 448.67625pt>
+File: ./Imagenes/8ejer1.jpg Graphic file (type jpg)
+<use ./Imagenes/8ejer1.jpg>
+Package pdftex.def Info: ./Imagenes/8ejer1.jpg  used on input line 12.
+(pdftex.def)             Requested size: 142.26378pt x 99.98247pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--21
+
+ []
+
+<./Imagenes/8ejer2.jpg, id=118, 638.385pt x 445.665pt>
+File: ./Imagenes/8ejer2.jpg Graphic file (type jpg)
+<use ./Imagenes/8ejer2.jpg>
+Package pdftex.def Info: ./Imagenes/8ejer2.jpg  used on input line 23.
+(pdftex.def)             Requested size: 142.26378pt x 99.31145pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--37
+
+ []
+
+[20
+
+
+ <./Imagenes/8ejer1.jpg> <./Imagenes/8ejer2.jpg>]
+<./Imagenes/8ejer3.jpg, id=122, 638.385pt x 267.24844pt>
+File: ./Imagenes/8ejer3.jpg Graphic file (type jpg)
+<use ./Imagenes/8ejer3.jpg>
+Package pdftex.def Info: ./Imagenes/8ejer3.jpg  used on input line 39.
+(pdftex.def)             Requested size: 142.26378pt x 59.55331pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+<./Imagenes/8ejer4.jpg, id=123, 629.35126pt x 450.9347pt>
+File: ./Imagenes/8ejer4.jpg Graphic file (type jpg)
+<use ./Imagenes/8ejer4.jpg>
+Package pdftex.def Info: ./Imagenes/8ejer4.jpg  used on input line 52.
+(pdftex.def)             Requested size: 142.26378pt x 101.9307pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--62
+
+ []
+
+<./Imagenes/8ejer5.jpg, id=124, 632.3625pt x 450.9347pt>
+File: ./Imagenes/8ejer5.jpg Graphic file (type jpg)
+<use ./Imagenes/8ejer5.jpg>
+Package pdftex.def Info: ./Imagenes/8ejer5.jpg  used on input line 64.
+(pdftex.def)             Requested size: 142.26378pt x 101.44215pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--74
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--74
+
+ []
+
+[21 <./Imagenes/8ejer3.jpg> <./Imagenes/8ejer4.jpg> <./Imagenes/8ejer5.jpg>]
+<./Imagenes/8ejer6.jpg, id=128, 630.10406pt x 448.67625pt>
+File: ./Imagenes/8ejer6.jpg Graphic file (type jpg)
+<use ./Imagenes/8ejer6.jpg>
+Package pdftex.def Info: ./Imagenes/8ejer6.jpg  used on input line 76.
+(pdftex.def)             Requested size: 142.26378pt x 101.29695pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--86
+
+ []
+
+<./Imagenes/8ejer7.jpg, id=129, 636.12656pt x 447.17062pt>
+File: ./Imagenes/8ejer7.jpg Graphic file (type jpg)
+<use ./Imagenes/8ejer7.jpg>
+Package pdftex.def Info: ./Imagenes/8ejer7.jpg  used on input line 88.
+(pdftex.def)             Requested size: 142.26378pt x 100.00177pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--101
+
+ []
+
+<./Imagenes/8ejer8.jpg, id=130, 633.86812pt x 448.67625pt>
+File: ./Imagenes/8ejer8.jpg Graphic file (type jpg)
+<use ./Imagenes/8ejer8.jpg>
+Package pdftex.def Info: ./Imagenes/8ejer8.jpg  used on input line 103.
+(pdftex.def)             Requested size: 142.26378pt x 100.69449pt.
+[22 <./Imagenes/8ejer6.jpg> <./Imagenes/8ejer7.jpg>]) [23 <./Imagenes/8ejer8.jp
+g>]
+\openout2 = `Secciones/Actividad09.aux'.
+
+ (Secciones/Actividad09.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--20
+
+ []
+
+<./Imagenes/actividad0901.jpg, id=138, 522.45187pt x 341.02406pt>
+File: ./Imagenes/actividad0901.jpg Graphic file (type jpg)
+<use ./Imagenes/actividad0901.jpg>
+Package pdftex.def Info: ./Imagenes/actividad0901.jpg  used on input line 21.
+(pdftex.def)             Requested size: 142.26378pt x 92.85826pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--31
+
+ []
+
+<./Imagenes/actividad0902.jpg, id=139, 327.47343pt x 328.97906pt>
+File: ./Imagenes/actividad0902.jpg Graphic file (type jpg)
+<use ./Imagenes/actividad0902.jpg>
+Package pdftex.def Info: ./Imagenes/actividad0902.jpg  used on input line 32.
+(pdftex.def)             Requested size: 142.26378pt x 142.91899pt.
+[24
+
+
+ <./Imagenes/actividad0901.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 35--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--45
+
+ []
+
+<./Imagenes/actividad0903.jpg, id=143, 538.26094pt x 363.60844pt>
+File: ./Imagenes/actividad0903.jpg Graphic file (type jpg)
+<use ./Imagenes/actividad0903.jpg>
+Package pdftex.def Info: ./Imagenes/actividad0903.jpg  used on input line 46.
+(pdftex.def)             Requested size: 142.26378pt x 96.10056pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--58
+
+ []
+
+<./Imagenes/actividad0904.jpg, id=144, 258.21469pt x 290.58563pt>
+File: ./Imagenes/actividad0904.jpg Graphic file (type jpg)
+<use ./Imagenes/actividad0904.jpg>
+Package pdftex.def Info: ./Imagenes/actividad0904.jpg  used on input line 59.
+(pdftex.def)             Requested size: 142.26378pt x 160.10193pt.
+[25 <./Imagenes/actividad0902.jpg> <./Imagenes/actividad0903.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 62--73
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--73
+
+ []
+
+<./Imagenes/actividad0905.jpg, id=148, 261.22594pt x 316.93407pt>
+File: ./Imagenes/actividad0905.jpg Graphic file (type jpg)
+<use ./Imagenes/actividad0905.jpg>
+Package pdftex.def Info: ./Imagenes/actividad0905.jpg  used on input line 74.
+(pdftex.def)             Requested size: 142.26378pt x 172.60233pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--90
+
+ []
+
+[26 <./Imagenes/actividad0904.jpg> <./Imagenes/actividad0905.jpg>]
+<./Imagenes/actividad0906.jpg, id=152, 437.38406pt x 434.37282pt>
+File: ./Imagenes/actividad0906.jpg Graphic file (type jpg)
+<use ./Imagenes/actividad0906.jpg>
+Package pdftex.def Info: ./Imagenes/actividad0906.jpg  used on input line 91.
+(pdftex.def)             Requested size: 142.26378pt x 141.28217pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--108
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--108
+
+ []
+
+<./Imagenes/actividad0907.jpg, id=153, 356.83313pt x 414.04688pt>
+File: ./Imagenes/actividad0907.jpg Graphic file (type jpg)
+<use ./Imagenes/actividad0907.jpg>
+Package pdftex.def Info: ./Imagenes/actividad0907.jpg  used on input line 110.
+(pdftex.def)             Requested size: 142.26378pt x 165.07248pt.
+[27 <./Imagenes/actividad0906.jpg> <./Imagenes/actividad0907.jpg>]) [28]
 \openout2 = `Secciones/Actividad10.aux'.
 
 
@@ -935,7 +1203,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--10
 
  []
 
-<./Imagenes/ejercicio10-1.png, id=96, 197.23688pt x 204.765pt>
+<./Imagenes/ejercicio10-1.png, id=160, 197.23688pt x 204.765pt>
 File: ./Imagenes/ejercicio10-1.png Graphic file (type png)
 <use ./Imagenes/ejercicio10-1.png>
 Package pdftex.def Info: ./Imagenes/ejercicio10-1.png  used on input line 12.
@@ -945,7 +1213,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--19
 
  []
 
-<./Imagenes/ejercicio10-2.png, id=97, 205.5178pt x 208.52907pt>
+<./Imagenes/ejercicio10-2.png, id=161, 205.5178pt x 208.52907pt>
 File: ./Imagenes/ejercicio10-2.png Graphic file (type png)
 <use ./Imagenes/ejercicio10-2.png>
 Package pdftex.def Info: ./Imagenes/ejercicio10-2.png  used on input line 21.
@@ -955,11 +1223,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--34
 
  []
 
-[15
+[29
 
 
  <./Imagenes/ejercicio10-1.png> <./Imagenes/ejercicio10-2.png>]
-<./Imagenes/ejercicio10-3.png, id=103, 170.88844pt x 92.59593pt>
+<./Imagenes/ejercicio10-3.png, id=168, 170.88844pt x 92.59593pt>
 File: ./Imagenes/ejercicio10-3.png Graphic file (type png)
 <use ./Imagenes/ejercicio10-3.png>
 Package pdftex.def Info: ./Imagenes/ejercicio10-3.png  used on input line 36.
@@ -969,7 +1237,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--44
 
  []
 
-<./Imagenes/ejercicio10-4.png, id=104, 169.38281pt x 90.3375pt>
+<./Imagenes/ejercicio10-4.png, id=169, 169.38281pt x 90.3375pt>
 File: ./Imagenes/ejercicio10-4.png Graphic file (type png)
 <use ./Imagenes/ejercicio10-4.png>
 Package pdftex.def Info: ./Imagenes/ejercicio10-4.png  used on input line 46.
@@ -979,33 +1247,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 55--58
 
  []
 
-<./Imagenes/ejercicio10-5.png, id=105, 266.49562pt x 209.28188pt>
+<./Imagenes/ejercicio10-5.png, id=170, 266.49562pt x 209.28188pt>
 File: ./Imagenes/ejercicio10-5.png Graphic file (type png)
 <use ./Imagenes/ejercicio10-5.png>
 Package pdftex.def Info: ./Imagenes/ejercicio10-5.png  used on input line 60.
 (pdftex.def)             Requested size: 142.26378pt x 111.72359pt.
-) [16 <./Imagenes/ejercicio10-3.png> <./Imagenes/ejercicio10-4.png> <./Imagenes
+) [30 <./Imagenes/ejercicio10-3.png> <./Imagenes/ejercicio10-4.png> <./Imagenes
 /ejercicio10-5.png>] (InformeLaboratorio01.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
  (Secciones/Actividad01.aux)
 (Secciones/Actividad02.aux) (Secciones/Actividad03.aux)
-(Secciones/Actividad04.aux) (Secciones/Actividad07.aux)
-(Secciones/Actividad10.aux)) ) 
+(Secciones/Actividad04.aux) (Secciones/Actividad06.aux)
+(Secciones/Actividad07.aux) (Secciones/Actividad08.aux)
+(Secciones/Actividad09.aux) (Secciones/Actividad10.aux)) ) 
 Here is how much of TeX's memory you used:
- 3780 strings out of 493305
- 52526 string characters out of 3142756
- 127424 words of memory out of 3000000
- 7190 multiletter control sequences out of 15000+200000
- 8261 words of font info for 30 fonts, out of 3000000 for 9000
+ 3881 strings out of 493305
+ 54956 string characters out of 3142756
+ 125782 words of memory out of 3000000
+ 7268 multiletter control sequences out of 15000+200000
+ 7954 words of font info for 29 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,5n,30p,616b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
-<D:/DATA/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmbx12.pfb><D:/DATA/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/D
-ATA/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on InformeLaboratorio01.pdf (18 pages, 586904 bytes).
+ 34i,7n,30p,616b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/DATA/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmbx12.pfb><D:/DATA/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmr12.pfb><D:/DATA/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy1
+0.pfb>
+Output written on InformeLaboratorio01.pdf (32 pages, 2139378 bytes).
 PDF statistics:
- 123 PDF objects out of 1000 (max. 8388607)
+ 188 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 151 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 251 words of extra memory for PDF output out of 10000 (max. 10000000)
 
