@@ -6,6 +6,6 @@
 \contentsline {section}{\numberline {5}Actividad No 05 \IeC {\textendash } Funciones}{14}
 \contentsline {section}{\numberline {6}Actividad No 06 \IeC {\textendash } Funciones de Conversi\'on}{18}
 \contentsline {section}{\numberline {7}Actividad No 07 \IeC {\textendash } Funciones de Agrupaci\'on}{23}
-\contentsline {section}{\numberline {8}Actividad No 08 \IeC {\textendash } Enlaces}{24}
-\contentsline {section}{\numberline {9}Actividad No 09 \IeC {\textendash } SubConsultas}{28}
-\contentsline {section}{\numberline {10}Actividad No 10 \IeC {\textendash } Conjuntos}{33}
+\contentsline {section}{\numberline {8}Actividad No 08 \IeC {\textendash } Enlaces}{26}
+\contentsline {section}{\numberline {9}Actividad No 09 \IeC {\textendash } SubConsultas}{30}
+\contentsline {section}{\numberline {10}Actividad No 10 \IeC {\textendash } Conjuntos}{35}
