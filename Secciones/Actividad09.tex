@@ -46,7 +46,7 @@
 	\includegraphics[width=5cm]{./Imagenes/actividad0903} 
 	\end{center}
 
-en el departamento de cualquier empleado que su apellido contenga la letra ‘u’.
+	\\en el departamento de cualquier empleado que su apellido contenga la letra ‘u’.
 	\item El departamento de Recursos Humanos requiere un reporte que muestre los Apellidos, No de Departamento y Puestos de los empleados cuya locación de departamento es 1700.
 	\\
 	\\SELECT emp.last\_name, \\
@@ -80,35 +80,39 @@ en el departamento de cualquier empleado que su apellido contenga la letra ‘u�
 	\\SELECT emp.last\_name, \\
 	   emp.salary \\
 	   FROM employees AS emp \\
-JOIN (SELECT dep.department\_id \\
+	JOIN (SELECT dep.department\_id \\
 			 FROM departments AS dep \\
 	  JOIN (SELECT employee\_id, \\
 			       last\_name \\
 				   FROM employees \\
 				   WHERE last\_name\='KING') AS manking \\
 	  ON dep.manager\_id\=manking.employee\_id) AS depking \\
-ON emp.department\_id\=depking.department\_id; \\
+	ON emp.department\_id\=depking.department\_id; \\
 	\begin{center}
 	\includegraphics[width=5cm]{./Imagenes/actividad0906} 
 	\end{center}
 
 	\item Crear un reporte para el departamento de Recursos Humanos que muestre el No de Departamento, Apellidos, Puestos de todos los empleados en el departamento ‘Executive’.
-\\
-\\SELECT empnomjob.department\_id, \\
+	\\
+	\\SELECT empnomjob.department\_id, \\
 	   empnomjob.last\_name, \\
 	   empnomjob.job\_title \\
 	   FROM departments \\
-JOIN (SELECT emp.department\_id, \\
+	JOIN (SELECT emp.department\_id, \\
 			 emp.last\_name, \\
 			 jobs.job\_title \\
 			 FROM employees AS emp \\
 	  JOIN jobs \\
 	  ON emp.job\_id\=jobs.job\_id) AS empnomjob \\
-ON empnomjob.department\_id\=departments.department\_id \\
-WHERE department\_name\='executive' \\
+	ON empnomjob.department\_id\=departments.department\_id \\
+	WHERE department\_name\='executive' \\
+
 	\begin{center}
 	\includegraphics[width=5cm]{./Imagenes/actividad0907} 
 	\end{center}
 
 	\item Modificar la consulta del ítem 4.3 para que adicionalmente se muestro solo a los empleados que tengan un salario mayor al promedio de todos los salarios de los empleados.
+
+
+
 \end{enumerate}
