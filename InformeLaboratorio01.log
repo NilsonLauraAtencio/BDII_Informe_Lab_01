@@ -1,13 +1,23 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.3)  5 MAY 2018 11:59
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.19)  5 MAY 2018 11:58
+>>>>>>> f69311cfef874ac9bf001509b10d09862cf030aa
 entering extended mode
 **./InformeLaboratorio01.tex
 (InformeLaboratorio01.tex
 LaTeX2e <2017-04-15>
 Babel <3.18> and hyphenation patterns for 75 language(s) loaded.
+<<<<<<< HEAD
 ("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
 "
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 ("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo"
+=======
+("D:\DATA\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("D:\DATA\MiKTeX 2.9\tex\latex\base\size12.clo"
+>>>>>>> f69311cfef874ac9bf001509b10d09862cf030aa
 File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -22,18 +32,32 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
+<<<<<<< HEAD
 ("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.st
 y"
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
  ("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\utf8.def"
+=======
+("D:\DATA\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+("D:\DATA\MiKTeX 2.9\tex\latex\base\utf8.def"
+>>>>>>> f69311cfef874ac9bf001509b10d09862cf030aa
 File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
+<<<<<<< HEAD
  ("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+=======
+
+("D:\DATA\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+>>>>>>> f69311cfef874ac9bf001509b10d09862cf030aa
 File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -274,7 +298,11 @@ File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
+<<<<<<< HEAD
 ("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+=======
+("D:\DATA\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+>>>>>>> f69311cfef874ac9bf001509b10d09862cf030aa
 File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -314,8 +342,13 @@ File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
 )
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
+<<<<<<< HEAD
  ("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omsenc.dfu
 "
+=======
+
+("D:\DATA\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+>>>>>>> f69311cfef874ac9bf001509b10d09862cf030aa
 File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -339,6 +372,7 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
+<<<<<<< HEAD
 ("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.st
 y"
 Package: babel 2018/02/14 3.18 The Babel package
@@ -353,12 +387,28 @@ Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
 
 ("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.de
 f"
+=======
+("D:\DATA\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2018/02/14 3.18 The Babel package
+
+("D:\DATA\MiKTeX 2.9\tex\generic\babel\switch.def"
+File: switch.def 2018/02/14 3.18 Babel switching mechanism
+)
+("D:\DATA\MiKTeX 2.9\tex\latex\babel-spanish\spanish.ldf"
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+("D:\DATA\MiKTeX 2.9\tex\generic\babel\babel.def"
+>>>>>>> f69311cfef874ac9bf001509b10d09862cf030aa
 File: babel.def 2018/02/14 3.18 Babel common definitions
 \babel@savecnt=\count87
 \U@D=\dimen103
 
+<<<<<<< HEAD
 ("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel
 .def")
+=======
+("D:\DATA\MiKTeX 2.9\tex\generic\babel\txtbabel.def")
+>>>>>>> f69311cfef874ac9bf001509b10d09862cf030aa
 \bbl@dirlevel=\count88
 )
 \es@quottoks=\toks16
@@ -368,6 +418,7 @@ Package babel Info: Making . an active character on input line 662.
 Package babel Info: Making < an active character on input line 707.
 Package babel Info: Making > an active character on input line 707.
 ))
+<<<<<<< HEAD
 ("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphic
 x.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
@@ -387,17 +438,38 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
 ("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\gra
 phics.cfg"
+=======
+("D:\DATA\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("D:\DATA\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+("D:\DATA\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("D:\DATA\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("D:\DATA\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+>>>>>>> f69311cfef874ac9bf001509b10d09862cf030aa
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
+<<<<<<< HEAD
 ("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdf
 tex.def"
+=======
+("D:\DATA\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+>>>>>>> f69311cfef874ac9bf001509b10d09862cf030aa
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen104
 \Gin@req@width=\dimen105
 )
+<<<<<<< HEAD
 ("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometr
 y.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
@@ -413,6 +485,19 @@ Package ifvtex Info: VTeX not detected.
 )
 ("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxete
 x.sty"
+=======
+("D:\DATA\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("D:\DATA\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+("D:\DATA\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("D:\DATA\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+>>>>>>> f69311cfef874ac9bf001509b10d09862cf030aa
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count90
@@ -428,9 +513,14 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen113
 \Gm@dimlist=\toks18
 
+<<<<<<< HEAD
 ("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometr
 y.cfg"))
 ("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
+=======
+("D:\DATA\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("D:\DATA\MiKTeX 2.9\tex\latex\float\float.sty"
+>>>>>>> f69311cfef874ac9bf001509b10d09862cf030aa
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count93
 \float@exts=\toks19
@@ -438,12 +528,17 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks20
 \@floatcapt=\box27
 )
+<<<<<<< HEAD
 ("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.
 sty"
+=======
+("D:\DATA\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+>>>>>>> f69311cfef874ac9bf001509b10d09862cf030aa
 Package: amsmath 2017/09/02 v2.17a AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
+<<<<<<< HEAD
 
 ("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.
 sty"
@@ -451,10 +546,17 @@ Package: amstext 2000/06/29 v2.01 AMS text
 
 ("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.s
 ty"
+=======
+("D:\DATA\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("D:\DATA\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+>>>>>>> f69311cfef874ac9bf001509b10d09862cf030aa
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks21
 \ex@=\dimen114
 ))
+<<<<<<< HEAD
 ("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.s
 ty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
@@ -462,6 +564,13 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 )
 ("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.s
 ty"
+=======
+("D:\DATA\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen115
+)
+("D:\DATA\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+>>>>>>> f69311cfef874ac9bf001509b10d09862cf030aa
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count94
@@ -502,6 +611,7 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
+<<<<<<< HEAD
 ("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\stackre
 l.sty"
 Package: stackrel 2016/05/16 v1.3 Adding subscript option to stackrel (HO)
@@ -516,6 +626,18 @@ Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
 ("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\iflua
 tex.sty"
+=======
+("D:\DATA\MiKTeX 2.9\tex\latex\oberdiek\stackrel.sty"
+Package: stackrel 2016/05/16 v1.3 Adding subscript option to stackrel (HO)
+
+("D:\DATA\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("D:\DATA\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("D:\DATA\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+>>>>>>> f69311cfef874ac9bf001509b10d09862cf030aa
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -524,6 +646,7 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )
+<<<<<<< HEAD
 ("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdfte
 xcmds.sty"
 Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
@@ -531,6 +654,13 @@ Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
 
 ("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcm
 ds.sty"
+=======
+("D:\DATA\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("D:\DATA\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+>>>>>>> f69311cfef874ac9bf001509b10d09862cf030aa
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
 Package pdftexcmds Info: LuaTeX not detected.
@@ -538,19 +668,36 @@ Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 ))
+<<<<<<< HEAD
 ("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\multirow\multiro
 w.sty"
+=======
+("D:\DATA\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+>>>>>>> f69311cfef874ac9bf001509b10d09862cf030aa
 Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
 \multirow@colwidth=\skip46
 \multirow@cntb=\count106
 \multirow@dima=\skip47
 \bigstrutjot=\dimen123
 )
+<<<<<<< HEAD
 ("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\enumerate.
 sty"
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks26
 ) (InformeLaboratorio01.aux)
+=======
+("D:\DATA\MiKTeX 2.9\tex\latex\tools\enumerate.sty"
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks26
+) (InformeLaboratorio01.aux
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+
+(Secciones/Actividad01.aux) (Secciones/Actividad02.aux)
+(Secciones/Actividad03.aux) (Secciones/Actividad04.aux)
+(Secciones/Actividad07.aux) (Secciones/Actividad10.aux))
+>>>>>>> f69311cfef874ac9bf001509b10d09862cf030aa
 \openout1 = `InformeLaboratorio01.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
@@ -568,6 +715,7 @@ LaTeX Font Info:    ... okay on input line 18.
 LaTeX Info: Redefining \. on input line 18.
 LaTeX Info: Redefining \% on input line 18.
 
+<<<<<<< HEAD
 ("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopd
 f-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -586,6 +734,21 @@ Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
 ("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvset
 keys.sty"
+=======
+("D:\DATA\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("D:\DATA\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("D:\DATA\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("D:\DATA\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("D:\DATA\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+>>>>>>> f69311cfef874ac9bf001509b10d09862cf030aa
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 ))
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -600,4 +763,445 @@ G,.JBIG2,.JB2,.eps]
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
 * paper: letterpaper
+<<<<<<< HEAD
 * layout: <s
+=======
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 500.484pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 681.15898pt, 56.9055pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=500.484pt
+* \textheight=681.15898pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<./Imagenes/logo.jpg, id=1, 276.03125pt x 183.68625pt>
+File: ./Imagenes/logo.jpg Graphic file (type jpg)
+<use ./Imagenes/logo.jpg>
+Package pdftex.def Info: ./Imagenes/logo.jpg  used on input line 38.
+(pdftex.def)             Requested size: 227.62204pt x 151.47853pt.
+[1
+
+{C:/Users/AEPIS01/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Imagene
+s/logo.jpg>] (InformeLaboratorio01.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+\tf@toc=\write3
+\openout3 = `InformeLaboratorio01.toc'.
+
+ [1]
+\openout2 = `Secciones/Actividad01.aux'.
+
+ (Secciones/Actividad01.tex
+<./Imagenes/actividad0101.jpg, id=11, 182.18062pt x 181.42781pt>
+File: ./Imagenes/actividad0101.jpg Graphic file (type jpg)
+<use ./Imagenes/actividad0101.jpg>
+Package pdftex.def Info: ./Imagenes/actividad0101.jpg  used on input line 8.
+(pdftex.def)             Requested size: 142.26378pt x 141.68199pt.
+<./Imagenes/actividad0102.jpg, id=12, 301.8778pt x 147.55125pt>
+File: ./Imagenes/actividad0102.jpg Graphic file (type jpg)
+<use ./Imagenes/actividad0102.jpg>
+Package pdftex.def Info: ./Imagenes/actividad0102.jpg  used on input line 15.
+(pdftex.def)             Requested size: 142.26378pt x 69.5337pt.
+<./Imagenes/actividad0103.jpg, id=13, 186.6975pt x 149.8097pt>
+File: ./Imagenes/actividad0103.jpg Graphic file (type jpg)
+<use ./Imagenes/actividad0103.jpg>
+Package pdftex.def Info: ./Imagenes/actividad0103.jpg  used on input line 22.
+(pdftex.def)             Requested size: 142.26378pt x 114.16055pt.
+)
+[1
+
+ <./Imagenes/actividad0101.jpg> <./Imagenes/actividad0102.jpg> <./Imagenes/acti
+vidad0103.jpg>]
+\openout2 = `Secciones/Actividad02.aux'.
+
+ (Secciones/Actividad02.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--7
+
+ []
+
+<./Imagenes/actividad0201.jpg, id=18, 603.0028pt x 429.85594pt>
+File: ./Imagenes/actividad0201.jpg Graphic file (type jpg)
+<use ./Imagenes/actividad0201.jpg>
+Package pdftex.def Info: ./Imagenes/actividad0201.jpg  used on input line 9.
+(pdftex.def)             Requested size: 284.52756pt x 202.82596pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--19
+
+ []
+
+<./Imagenes/actividad0202.jpg, id=19, 263.48438pt x 288.3272pt>
+File: ./Imagenes/actividad0202.jpg Graphic file (type jpg)
+<use ./Imagenes/actividad0202.jpg>
+Package pdftex.def Info: ./Imagenes/actividad0202.jpg  used on input line 21.
+(pdftex.def)             Requested size: 142.26378pt x 155.68556pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--27
+
+ []
+
+<./Imagenes/actividad0203.jpg, id=20, 243.91125pt x 239.39438pt>
+File: ./Imagenes/actividad0203.jpg Graphic file (type jpg)
+<use ./Imagenes/actividad0203.jpg>
+Package pdftex.def Info: ./Imagenes/actividad0203.jpg  used on input line 29.
+(pdftex.def)             Requested size: 142.26378pt x 139.63054pt.
+[2
+
+
+ <./Imagenes/actividad0201.jpg> <./Imagenes/actividad0202.jpg>]) [3 <./Imagenes
+/actividad0203.jpg>]
+\openout2 = `Secciones/Actividad03.aux'.
+
+ (Secciones/Actividad03.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+<./Imagenes/actividad0301.jpg, id=27, 292.09125pt x 283.0575pt>
+File: ./Imagenes/actividad0301.jpg Graphic file (type jpg)
+<use ./Imagenes/actividad0301.jpg>
+Package pdftex.def Info: ./Imagenes/actividad0301.jpg  used on input line 12.
+(pdftex.def)             Requested size: 142.26378pt x 137.86578pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--19
+
+ []
+
+<./Imagenes/actividad0302.jpg, id=28, 383.93437pt x 255.20343pt>
+File: ./Imagenes/actividad0302.jpg Graphic file (type jpg)
+<use ./Imagenes/actividad0302.jpg>
+Package pdftex.def Info: ./Imagenes/actividad0302.jpg  used on input line 20.
+(pdftex.def)             Requested size: 142.26378pt x 94.56396pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--37
+
+ []
+
+[4
+
+
+ <./Imagenes/actividad0301.jpg> <./Imagenes/actividad0302.jpg>]
+<./Imagenes/actividad0303.jpg, id=32, 305.64188pt x 374.14781pt>
+File: ./Imagenes/actividad0303.jpg Graphic file (type jpg)
+<use ./Imagenes/actividad0303.jpg>
+Package pdftex.def Info: ./Imagenes/actividad0303.jpg  used on input line 38.
+(pdftex.def)             Requested size: 142.26378pt x 174.1482pt.
+) [5 <./Imagenes/actividad0303.jpg>]
+\openout2 = `Secciones/Actividad04.aux'.
+
+ (Secciones/Actividad04.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--6
+
+ []
+
+<./Imagenes/actividad_04_01.png, id=37, 121.95563pt x 134.00063pt>
+File: ./Imagenes/actividad_04_01.png Graphic file (type png)
+<use ./Imagenes/actividad_04_01.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_01.png  used on input line 8.
+(pdftex.def)             Requested size: 142.26378pt x 156.31592pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--13
+
+ []
+
+<./Imagenes/actividad_04_02.png, id=39, 137.7647pt x 295.85532pt>
+File: ./Imagenes/actividad_04_02.png Graphic file (type png)
+<use ./Imagenes/actividad_04_02.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_02.png  used on input line 15.
+
+(pdftex.def)             Requested size: 142.26378pt x 305.54695pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--20
+
+ []
+
+[6
+
+
+ <./Imagenes/actividad_04_01.png> <./Imagenes/actividad_04_02.png>]
+<./Imagenes/actividad_04_03.png, id=45, 184.43906pt x 292.09125pt>
+File: ./Imagenes/actividad_04_03.png Graphic file (type png)
+<use ./Imagenes/actividad_04_03.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_03.png  used on input line 22.
+
+(pdftex.def)             Requested size: 142.26378pt x 225.29869pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
+
+ []
+
+<./Imagenes/actividad_04_04.png, id=46, 185.19188pt x 61.73062pt>
+File: ./Imagenes/actividad_04_04.png Graphic file (type png)
+<use ./Imagenes/actividad_04_04.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_04.png  used on input line 29.
+
+(pdftex.def)             Requested size: 142.26378pt x 47.42155pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
+
+ []
+
+<./Imagenes/actividad_04_05.png, id=47, 142.28156pt x 286.06876pt>
+File: ./Imagenes/actividad_04_05.png Graphic file (type png)
+<use ./Imagenes/actividad_04_05.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_05.png  used on input line 36.
+
+(pdftex.def)             Requested size: 142.26378pt x 286.06367pt.
+[7 <./Imagenes/actividad_04_03.png> <./Imagenes/actividad_04_04.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 39--41
+
+ []
+
+<./Imagenes/actividad_04_06.png, id=53, 143.78719pt x 102.3825pt>
+File: ./Imagenes/actividad_04_06.png Graphic file (type png)
+<use ./Imagenes/actividad_04_06.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_06.png  used on input line 43.
+
+(pdftex.def)             Requested size: 142.26378pt x 101.30118pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
+
+ []
+
+<./Imagenes/actividad_04_07.png, id=54, 121.20282pt x 46.67438pt>
+File: ./Imagenes/actividad_04_07.png Graphic file (type png)
+<use ./Imagenes/actividad_04_07.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_07.png  used on input line 50.
+
+(pdftex.def)             Requested size: 142.26378pt x 54.79109pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--55
+
+ []
+
+[8 <./Imagenes/actividad_04_05.png> <./Imagenes/actividad_04_06.png> <./Imagene
+s/actividad_04_07.png>]
+<./Imagenes/actividad_04_08.png, id=61, 128.73094pt x 39.14626pt>
+File: ./Imagenes/actividad_04_08.png Graphic file (type png)
+<use ./Imagenes/actividad_04_08.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_08.png  used on input line 57.
+
+(pdftex.def)             Requested size: 142.26378pt x 43.26527pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--62
+
+ []
+
+<./Imagenes/actividad_04_09.png, id=62, 193.47281pt x 294.34969pt>
+File: ./Imagenes/actividad_04_09.png Graphic file (type png)
+<use ./Imagenes/actividad_04_09.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_09.png  used on input line 64.
+
+(pdftex.def)             Requested size: 142.26378pt x 216.44098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--70
+
+ []
+
+<./Imagenes/actividad_04_10.png, id=63, 126.4725pt x 133.24782pt>
+File: ./Imagenes/actividad_04_10.png Graphic file (type png)
+<use ./Imagenes/actividad_04_10.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_10.png  used on input line 72.
+
+(pdftex.def)             Requested size: 142.26378pt x 149.88715pt.
+[9 <./Imagenes/actividad_04_08.png> <./Imagenes/actividad_04_09.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 75--87
+
+ []
+
+<./Imagenes/actividad_04_11.png, id=69, 243.15843pt x 287.57437pt>
+File: ./Imagenes/actividad_04_11.png Graphic file (type png)
+<use ./Imagenes/actividad_04_11.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_11.png  used on input line 89.
+
+(pdftex.def)             Requested size: 142.26378pt x 168.25008pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--95
+
+ []
+
+[10 <./Imagenes/actividad_04_10.png> <./Imagenes/actividad_04_11.png>]
+<./Imagenes/actividad_04_12.png, id=75, 75.28125pt x 67.0003pt>
+File: ./Imagenes/actividad_04_12.png Graphic file (type png)
+<use ./Imagenes/actividad_04_12.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_12.png  used on input line 97.
+
+(pdftex.def)             Requested size: 142.26378pt x 126.64041pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--103
+
+ []
+
+
+Overfull \hbox (47.27953pt too wide) in paragraph at lines 100--103
+\OT1/cmr/m/n/12 select last[]name from em-plo-yees whe-re SUBS-TRING(last[]name
+,3,1) = 'a' or SUBS-TRING(last[]name,3,1)
+ []
+
+<./Imagenes/actividad_04_13.png, id=76, 79.79813pt x 245.41687pt>
+File: ./Imagenes/actividad_04_13.png Graphic file (type png)
+<use ./Imagenes/actividad_04_13.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_13.png  used on input line 105
+.
+(pdftex.def)             Requested size: 142.26378pt x 437.53342pt.
+[11 <./Imagenes/actividad_04_12.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 108--111
+
+ []
+
+
+Overfull \hbox (9.49081pt too wide) in paragraph at lines 108--111
+\OT1/cmr/m/n/12 select last[]name,job[]id,salary from em-plo-yees whe-re (job[]
+id = 'SA[]REP' or job[]id = 'ST[]CLERK')
+ []
+
+<./Imagenes/actividad_04_14.png, id=82, 175.40532pt x 126.4725pt>
+File: ./Imagenes/actividad_04_14.png Graphic file (type png)
+<use ./Imagenes/actividad_04_14.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_14.png  used on input line 113
+.
+(pdftex.def)             Requested size: 142.26378pt x 102.58302pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--119
+
+ []
+
+[12 <./Imagenes/actividad_04_13.png> <./Imagenes/actividad_04_14.png>]
+<./Imagenes/actividad_04_15.png, id=88, 215.30438pt x 94.85437pt>
+File: ./Imagenes/actividad_04_15.png Graphic file (type png)
+<use ./Imagenes/actividad_04_15.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_15.png  used on input line 121
+.
+(pdftex.def)             Requested size: 142.26378pt x 62.67644pt.
+)
+[13 <./Imagenes/actividad_04_15.png>]
+\openout2 = `Secciones/Actividad07.aux'.
+
+ (Secciones/Actividad07.tex) [14
+
+
+]
+\openout2 = `Secciones/Actividad10.aux'.
+
+
+(Secciones/Actividad10.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--10
+
+ []
+
+<./Imagenes/ejercicio10-1.png, id=96, 197.23688pt x 204.765pt>
+File: ./Imagenes/ejercicio10-1.png Graphic file (type png)
+<use ./Imagenes/ejercicio10-1.png>
+Package pdftex.def Info: ./Imagenes/ejercicio10-1.png  used on input line 12.
+(pdftex.def)             Requested size: 142.26378pt x 147.69312pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--19
+
+ []
+
+<./Imagenes/ejercicio10-2.png, id=97, 205.5178pt x 208.52907pt>
+File: ./Imagenes/ejercicio10-2.png Graphic file (type png)
+<use ./Imagenes/ejercicio10-2.png>
+Package pdftex.def Info: ./Imagenes/ejercicio10-2.png  used on input line 21.
+(pdftex.def)             Requested size: 142.26378pt x 144.34657pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--34
+
+ []
+
+[15
+
+
+ <./Imagenes/ejercicio10-1.png> <./Imagenes/ejercicio10-2.png>]
+<./Imagenes/ejercicio10-3.png, id=103, 170.88844pt x 92.59593pt>
+File: ./Imagenes/ejercicio10-3.png Graphic file (type png)
+<use ./Imagenes/ejercicio10-3.png>
+Package pdftex.def Info: ./Imagenes/ejercicio10-3.png  used on input line 36.
+(pdftex.def)             Requested size: 142.26378pt x 77.09053pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--44
+
+ []
+
+<./Imagenes/ejercicio10-4.png, id=104, 169.38281pt x 90.3375pt>
+File: ./Imagenes/ejercicio10-4.png Graphic file (type png)
+<use ./Imagenes/ejercicio10-4.png>
+Package pdftex.def Info: ./Imagenes/ejercicio10-4.png  used on input line 46.
+(pdftex.def)             Requested size: 142.26378pt x 75.87607pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--58
+
+ []
+
+<./Imagenes/ejercicio10-5.png, id=105, 266.49562pt x 209.28188pt>
+File: ./Imagenes/ejercicio10-5.png Graphic file (type png)
+<use ./Imagenes/ejercicio10-5.png>
+Package pdftex.def Info: ./Imagenes/ejercicio10-5.png  used on input line 60.
+(pdftex.def)             Requested size: 142.26378pt x 111.72359pt.
+) [16 <./Imagenes/ejercicio10-3.png> <./Imagenes/ejercicio10-4.png> <./Imagenes
+/ejercicio10-5.png>] (InformeLaboratorio01.aux
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+ (Secciones/Actividad01.aux)
+(Secciones/Actividad02.aux) (Secciones/Actividad03.aux)
+(Secciones/Actividad04.aux) (Secciones/Actividad07.aux)
+(Secciones/Actividad10.aux)) ) 
+Here is how much of TeX's memory you used:
+ 3780 strings out of 493305
+ 52526 string characters out of 3142756
+ 127424 words of memory out of 3000000
+ 7190 multiletter control sequences out of 15000+200000
+ 8261 words of font info for 30 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 34i,5n,30p,616b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/DATA/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmbx12.pfb><D:/DATA/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/D
+ATA/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on InformeLaboratorio01.pdf (18 pages, 586904 bytes).
+PDF statistics:
+ 123 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 151 words of extra memory for PDF output out of 10000 (max. 10000000)
+
+>>>>>>> f69311cfef874ac9bf001509b10d09862cf030aa
