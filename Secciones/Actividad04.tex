@@ -76,37 +76,46 @@
 	\\Administrador (manager\_id) = 103, ordenado por Apellido (last\_name)
 	\\Administrador (manager\_id) = 201, ordenado por Salario (salary)
 	\\Administrador (manager\_id) = 124, ordenado por No de Empleado (employee\_id)
-	\\ \\declare @gerente as int; set @gerente = 103;
-	\\select employee\_id,last\_name,salary,department\_id 
-	\\from employees where manager\_id = @gerente order by last\_name; 
-	\\set @gerente = 201; select employee\_id,last\_name,salary,department\_id 
-	\\from employees where manager\_id = @gerente order by salary; 
-	\\set @gerente = 124; select employee\_id,last\_name,salary,department\_id 
-	\\from employees where manager\_id = @gerente order by employee\_id;
-
+	\\ \\declare @gerente as int;
+	\\set @gerente = 103;
+	\\select employee\_id,last\_name,salary,department\_id from employees where manager\_id = @gerente order by last\_name;
+	\\set @gerente = 201;
+	\\select employee\_id,last\_name,salary,department\_id from employees where manager\_id = @gerente order by salary;
+	\\set @gerente = 124;
+	\\select employee\_id,last\_name,salary,department\_id from employees where manager\_id = @gerente order by employee\_id;
+	\\go
+	
 	\begin{center}
 	\includegraphics[width=5cm]{./Imagenes/actividad_04_11} 
 	\end{center}
 
 	\item Generar un listado de apellidos (last\_name) de todos los empleados que tengan la letra ‘a’ en la tercera letra de su apellido.
+	\\ \\select last\_name from employees where SUBSTRING(last\_name,3,1) = 'a';
+	\\go
 
 	\begin{center}
 	\includegraphics[width=5cm]{./Imagenes/actividad_04_12} 
 	\end{center}
 
 	\item Mostrar los apellidos (last\_name) de todos los empleados que tengan tanto la letra ‘a’ como la letra ‘e’ en su apellido.
+	\\ \\select last\_name from employees where SUBSTRING(last\_name,3,1) = 'a' or SUBSTRING(last\_name,3,1) = 'e';
+	\\go
 
 	\begin{center}
 	\includegraphics[width=5cm]{./Imagenes/actividad_04_13} 
 	\end{center}
 
 	\item Mostrar los apellidos (last\_name), puestos (job\_id) y salario (salary) de todos los empleados que sean Representantes de Ventas (SA\_REP) o Responsables de Inventario (ST\_CLERK) y cuyos salarios no sean iguales a \$ 2,500, \$ 3,500 o \$ 7,000.
+	\\ \\select last\_name,job\_id,salary from employees where (job\_id = 'SA\_REP' or job\_id = 'ST\_CLERK') and (salary = 2500 or salary = 3500 or salary = 7000);
+	\\go
 
 	\begin{center}
 	\includegraphics[width=5cm]{./Imagenes/actividad_04_14} 
 	\end{center}
 
 	\item Modificar el reporte del ítem 4.6 y mostrar adicionalmente los datos de comisión (commission\_pct) de todos los empleados que solamente el 20\% de comisi\'on.
+	\\ \\select last\_name 'Empleado',salary 'Salario Mensual',commission\_pct from employees where salary > 5000 and salary < 12000 and (department\_id = 20 or department\_id = 50) and commission\_pct = 0.20;
+	\\go
 
 	\begin{center}
 	\includegraphics[width=5cm]{./Imagenes/actividad_04_15} 
